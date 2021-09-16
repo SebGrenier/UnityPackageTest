@@ -1,6 +1,6 @@
 {
-	"name": "unityPackageTest",
-	"displayName":"Search Extensions",
+	"name": "com.unity.package-test",
+	"displayName":"Unity Package Test",
 	"version": "1.0.0",
 	"unity": "2022.1",
 	"description": "This is a test package.",
